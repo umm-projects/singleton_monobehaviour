@@ -1,6 +1,6 @@
 {
   "name": "@umm/singleton_monobehaviour",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Provide behaviour to MonoBehaviour act as Singleton.",
   "homepage": "https://github.com/umm-projects/singleton_monobehaviour",
   "bugs": {
