@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install @umm/singleton_monobehaviour
+$ npm install github:umm-projects/singleton_monobehaviour.git
 ```
 
 # Usage
