@@ -26,7 +26,7 @@
     "scripts"
   ],
   "dependencies": {
-    "@umm/permanent": "github:umm-projects/permanent#semver:^1.0.4",
+    "@umm/permanent": "^1.0.6",
     "glob": "^7.1.2",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
