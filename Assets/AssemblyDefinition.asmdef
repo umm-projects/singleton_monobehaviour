@@ -1,0 +1,10 @@
+{
+    "name": "umm@singleton_monobehaviour",
+    "references": [
+        "umm@permanent"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
