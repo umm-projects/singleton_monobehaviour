@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-yarn add "umm-projects/singleton_monobehaviour#^1.0.0"
+yarn add "umm/singleton_monobehaviour#^1.0.0"
 ```
 
 # Usage
