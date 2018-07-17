@@ -2,9 +2,9 @@
   "name": "@umm/singleton_monobehaviour",
   "version": "1.2.0",
   "description": "Provide behaviour to MonoBehaviour act as Singleton.",
-  "homepage": "https://github.com/umm-projects/singleton_monobehaviour",
+  "homepage": "https://github.com/umm/singleton_monobehaviour",
   "bugs": {
-    "url": "https://github.com/umm-projects/singleton_monobehaviour/issues"
+    "url": "https://github.com/umm/singleton_monobehaviour/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,15 +22,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/singleton_monobehaviour"
+    "url": "git@github.com:umm/singleton_monobehaviour"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/permanent": "umm-projects/permanent#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/permanent": "umm/permanent#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {}
 }
